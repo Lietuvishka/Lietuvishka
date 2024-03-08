@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Collect your exclusive ZK24 NFTs!
 transition may charge you some gas fee
+or not
