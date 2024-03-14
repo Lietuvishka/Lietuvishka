@@ -16,10 +16,9 @@ or not
 
 
 
-Hi GRVT Early Ambassadors,
+This Week at GRVT
 
-This is Hong, the CEO and Co-Founder of GRVT. 
+Closed Beta Phase 1.0 starts next week, plus our phased beta timeline released
+GRVT rebrands with a new look, but same mission
+Community Team launches Discord Trading Campaign
 
-It's been a long journey but we have finally arrived at our next big chapter. The highly anticipated Closed Beta Testnet Phase 1.0 for GRVT is set to start on March 19.
-
-Here are some key details:
