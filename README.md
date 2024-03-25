@@ -11,7 +11,7 @@ Lietuvishka/Lietuvishka is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 Hello, it has been another month-ish and we’re back with another newsletter to keep you up to date about what’s been going on over at Zora. 
 THE START TO DEFI SPRING ON STARKNET.
-EXPLORE HOW TO EARN 40M STRK INCENTIVES LIVE NOW.
+
 
 
 
