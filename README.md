@@ -11,4 +11,4 @@ Lietuvishka/Lietuvishka is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 Hello,
 Do not share this code to anyone. The code will expire soon.
-Your MemeFi verification code:
+
